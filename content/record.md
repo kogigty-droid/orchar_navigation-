@@ -8,7 +8,8 @@
 
 <details>
 <summary>orchard_track_robust_v2.py</summary>
-```py
+    
+```python
 import sys
 # 适配 ROS 环境
 sys.path.append('/opt/ros/noetic/lib/python3/dist-packages')
