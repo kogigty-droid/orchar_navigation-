@@ -311,3 +311,8 @@ if __name__ == "__main__":
     *   $k$ 代表车身偏角（斜率）。
     *   $b$ 代表车身横向偏差（截距）。
     *   直接把这两个数喂给你之前的纯跟踪函数即可算出角速度。
+
+
+
+
+<img width="1031" height="260" alt="image" src="https://github.com/user-attachments/assets/e9576f87-15bc-4b44-8157-58a2283a769b" />
